@@ -122,7 +122,7 @@
           <mxGeometry x="540" y="482" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtK1k4INrrKhG_ktbQSm-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;App access + Backup&lt;/h1&gt;&lt;p&gt;Client apps, available on web, mobile (iOS and Android), and desktop, provide users with access to their photos and videos. The mobile apps also support automatic backup of photos and videos from the device&#39;s gallery to Immich and Nextcloud.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="10" y="357" width="270" height="130" as="geometry" />
+          <mxGeometry x="10" y="370" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="vtK1k4INrrKhG_ktbQSm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vtK1k4INrrKhG_ktbQSm-29" target="wB4O-myQQqbZG3bbWy1y-2">
           <mxGeometry relative="1" as="geometry" />
@@ -138,6 +138,9 @@
         </mxCell>
         <mxCell id="vtK1k4INrrKhG_ktbQSm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="0HOn4dy9D6TToNSfcEj_-36" target="vtK1k4INrrKhG_ktbQSm-29">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vtK1k4INrrKhG_ktbQSm-34" value="Users/ Devices" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="78" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
