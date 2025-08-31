@@ -94,7 +94,7 @@
         <mxCell id="fh0HKsS6P7B0cNIqWzDm-60" value="SSL" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ssl_padlock;fillColor=#D2D3D3;gradientColor=none;strokeWidth=2;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="-603.13" y="500.5" width="30" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="fh0HKsS6P7B0cNIqWzDm-63" value="Wireless AP&lt;br&gt;Wifi 6, 5Ghz - 2.4Ghz" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1;opacity=30;" parent="1" vertex="1">
+        <mxCell id="fh0HKsS6P7B0cNIqWzDm-63" value="Wireless AP&lt;br&gt;Wifi 6E, 5Ghz - 2.4Ghz" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="-462.66999999999996" y="49.839999999999975" width="40" height="25" as="geometry" />
         </mxCell>
         <mxCell id="fh0HKsS6P7B0cNIqWzDm-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="fh0HKsS6P7B0cNIqWzDm-64" edge="1">
