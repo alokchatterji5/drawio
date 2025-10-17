@@ -1,23 +1,32 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Page-1" id="VZH_p7kgX6xaE4W4lIRJ">
-    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1JPYP02j_BnwQiCxbLRh-1" value="TrueNAS primary" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-1" value="TrueNAS primary" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="400" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="1JPYP02j_BnwQiCxbLRh-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1JPYP02j_BnwQiCxbLRh-1">
-          <mxGeometry x="40" y="113" width="40" height="54" as="geometry" />
+        <mxCell id="7t_tuSClZBUdosyMuYgd-8" value="" style="group" vertex="1" connectable="0" parent="1JPYP02j_BnwQiCxbLRh-1">
+          <mxGeometry x="20" y="70" width="130" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="1JPYP02j_BnwQiCxbLRh-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1JPYP02j_BnwQiCxbLRh-1">
-          <mxGeometry x="90" y="113" width="40" height="54" as="geometry" />
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" parent="7t_tuSClZBUdosyMuYgd-8" vertex="1">
+          <mxGeometry x="20" y="47" width="40" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="1JPYP02j_BnwQiCxbLRh-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1JPYP02j_BnwQiCxbLRh-1">
-          <mxGeometry x="40" y="180" width="40" height="54" as="geometry" />
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" parent="7t_tuSClZBUdosyMuYgd-8" vertex="1">
+          <mxGeometry x="70" y="47" width="40" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="1JPYP02j_BnwQiCxbLRh-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1JPYP02j_BnwQiCxbLRh-1">
-          <mxGeometry x="90" y="180" width="40" height="54" as="geometry" />
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" parent="7t_tuSClZBUdosyMuYgd-8" vertex="1">
+          <mxGeometry x="20" y="114" width="40" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" parent="7t_tuSClZBUdosyMuYgd-8" vertex="1">
+          <mxGeometry x="70" y="114" width="40" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="7t_tuSClZBUdosyMuYgd-5" value="RAID 10 Dataset" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="7t_tuSClZBUdosyMuYgd-8">
+          <mxGeometry width="130" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7t_tuSClZBUdosyMuYgd-6" value="Primary" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" vertex="1" parent="7t_tuSClZBUdosyMuYgd-5">
+          <mxGeometry x="-20" y="23" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
