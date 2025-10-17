@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Page-1" id="VZH_p7kgX6xaE4W4lIRJ">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-1" value="TrueNAS primary" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1JPYP02j_BnwQiCxbLRh-1">
+          <mxGeometry x="40" y="113" width="40" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1JPYP02j_BnwQiCxbLRh-1">
+          <mxGeometry x="90" y="113" width="40" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1JPYP02j_BnwQiCxbLRh-1">
+          <mxGeometry x="40" y="180" width="40" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1JPYP02j_BnwQiCxbLRh-1">
+          <mxGeometry x="90" y="180" width="40" height="54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
