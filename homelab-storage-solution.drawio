@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1JPYP02j_BnwQiCxbLRh-1" value="TrueNAS primary" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-10" width="720" height="530" as="geometry" />
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-1" value="TrueNAS primary" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-10" width="720" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="7t_tuSClZBUdosyMuYgd-38" value="Secondary ZFS Pool" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1JPYP02j_BnwQiCxbLRh-1" vertex="1">
+        <mxCell id="7t_tuSClZBUdosyMuYgd-38" value="Secondary ZFS Pool" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1JPYP02j_BnwQiCxbLRh-1" vertex="1">
           <mxGeometry x="440" y="80" width="270" height="290" as="geometry" />
         </mxCell>
         <mxCell id="7t_tuSClZBUdosyMuYgd-40" value="8 TB" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;container=0;" parent="7t_tuSClZBUdosyMuYgd-38" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="80oZG-ZrI_b5MWgoBNql-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Local Backup&lt;/h1&gt;&lt;p&gt;Smart Spindown&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Only Critical Data Backups&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="7t_tuSClZBUdosyMuYgd-38">
           <mxGeometry x="80" y="30" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7t_tuSClZBUdosyMuYgd-81" value="Services" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1JPYP02j_BnwQiCxbLRh-1" vertex="1">
+        <mxCell id="7t_tuSClZBUdosyMuYgd-81" value="Services" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1JPYP02j_BnwQiCxbLRh-1" vertex="1">
           <mxGeometry x="10" y="380" width="700" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7t_tuSClZBUdosyMuYgd-76" value="SMB" style="html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;sketch=0;shape=mxgraph.sitemap.services;fontStyle=1;fontColor=#ffffff;" parent="7t_tuSClZBUdosyMuYgd-81" vertex="1">
@@ -113,6 +113,9 @@
           <mxGeometry x="-0.0476" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="80oZG-ZrI_b5MWgoBNql-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-30" width="24" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
