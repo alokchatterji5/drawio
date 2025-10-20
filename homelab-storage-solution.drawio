@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1JPYP02j_BnwQiCxbLRh-1" value="TrueNAS primary" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="1JPYP02j_BnwQiCxbLRh-1" value="TrueNAS primary" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;rounded=0;comic=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="-10" width="720" height="510" as="geometry" />
         </mxCell>
         <mxCell id="7t_tuSClZBUdosyMuYgd-38" value="Secondary ZFS Pool" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1JPYP02j_BnwQiCxbLRh-1" vertex="1">
