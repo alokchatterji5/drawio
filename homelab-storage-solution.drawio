@@ -204,6 +204,9 @@
         <mxCell id="80oZG-ZrI_b5MWgoBNql-60" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/tunnel.svg;rotation=-225;imageBackground=none;" parent="b9hkrh5nY89B4wGF71Ae-1" vertex="1">
           <mxGeometry x="-3.7867965644035166" y="16.21320343559637" width="50" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="b9hkrh5nY89B4wGF71Ae-5" value="RSync, Replication jobs" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
